@@ -19,7 +19,7 @@
     "terminal.integrated.fontSize": 10,
     "window.zoomLevel": 0,
     "workbench.activityBar.visible": true,
-    "workbench.colorTheme": "Abyss",
+    "workbench.colorTheme": "Default Dark+",
     "workbench.fontAliasing": "antialiased",
     "workbench.statusBar.visible": true,
     "sqltools.connections": [
