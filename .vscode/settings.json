@@ -26,7 +26,7 @@
         {
             "previewLimit": 50,
             "driver": "SQLite",
-            "name": "Test",
+            "name": "SQLite Viewer",
             "database": "${workspaceFolder:Demos}/CarsForAll.db"
         }
     ],
